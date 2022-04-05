@@ -1,7 +1,7 @@
 <?php 
 /*
  *Plugin Name: Royal-Tickets-Artist-Extension;
- *Author: Amjad Khan
+ *Author: Aman Khan
  */
 include('includes/init.php');
 include('process/save-post.php');
